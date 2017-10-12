@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\OID Generator\OID Generator\bin\Debug\OID Generator.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\OID Generator\OID Generator\bin\Debug\OID Generator.exe
+c:\users\admin\documents\visual studio 2013\Projects\OID Generator\OID Generator\bin\Debug\OID Generator.pdb
+c:\users\admin\documents\visual studio 2013\Projects\OID Generator\OID Generator\bin\Debug\OID Generator.xml
+c:\users\admin\documents\visual studio 2013\Projects\OID Generator\OID Generator\obj\Debug\OID_Generator.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\OID Generator\OID Generator\obj\Debug\OID_Generator.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\OID Generator\OID Generator\obj\Debug\OID Generator.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\OID Generator\OID Generator\obj\Debug\OID Generator.exe
+c:\users\admin\documents\visual studio 2013\Projects\OID Generator\OID Generator\obj\Debug\OID Generator.xml
+c:\users\admin\documents\visual studio 2013\Projects\OID Generator\OID Generator\obj\Debug\OID Generator.pdb
